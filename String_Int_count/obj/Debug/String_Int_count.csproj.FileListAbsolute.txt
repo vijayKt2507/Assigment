@@ -1,0 +1,7 @@
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\bin\Debug\String_Int_count.exe.config
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\bin\Debug\String_Int_count.exe
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\bin\Debug\String_Int_count.pdb
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\obj\Debug\String_Int_count.csprojAssemblyReference.cache
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\obj\Debug\String_Int_count.csproj.CoreCompileInputs.cache
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\obj\Debug\String_Int_count.exe
+C:\Users\Vijay KT\source\repos\Practice\String_Int_count\obj\Debug\String_Int_count.pdb
