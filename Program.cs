@@ -4,18 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ascending_order
+namespace Convert_C_to_kelvin
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // The code provided will print ‘Hello World’ to the console.
-            // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
-
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            Console.Title = @"convert celsius to fahrenheit\kelvin";
+            Console.WriteLine("enter amount of c elsius to convert:");
+            double cels = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+            Console.WriteLine($"{cels}celsius in kelvin is {cels + 273}");
+            Console.WriteLine();
+            Console.WriteLine($"{cels} celsius in fahrenherit is {cels * 9 / 5 + 32}");
+            Console.Read();
+           
         }
     }
 }
